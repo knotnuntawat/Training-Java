@@ -52,6 +52,8 @@ public class Assignment3 {
             money = money % 1;
 
             System.out.println("จำนวนเงินที่เหลือ " + money);
+
+            sc.close();
         }
     }
 }
