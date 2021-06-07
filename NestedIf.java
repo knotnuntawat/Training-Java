@@ -13,7 +13,7 @@ if(age>=15 && age<=17){
 }else{
     System.out.println("อื่นๆ");
 }
-
+//ทดสอบ
         sc.close();
     }
 }
