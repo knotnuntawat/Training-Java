@@ -6,9 +6,13 @@ public class NestedIf {
 
         System.out.print("ป้อนอายุของคุณ : ");
         int age = sc.nextInt();
-if(age<=15){
+if(age>=15 && age<=17){
     System.out.println("ม.ต้น");
-}ำสหำ
+}if(age>=18 && age<=20){
+    System.out.println("ม.ปลาย");
+}else{
+    System.out.println("อื่นๆ");
+}
 
         sc.close();
     }
