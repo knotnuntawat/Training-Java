@@ -17,10 +17,10 @@ public class ArrayBasic2 {
          * System.out.println(number [6]); 
          * System.out.println(number [7]);
          * System.out.println(number [8]);
-         */
-
         int count = number.length; // 8
+        */
 
+        
         // ลดรูป
         /*for (int i = 0; i < count; i++) {
            System.out.println("ตำแหน่งที่ "+i+" = " +number[i]);
