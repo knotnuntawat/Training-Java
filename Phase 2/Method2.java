@@ -6,7 +6,7 @@ public class Method2 {
         display("How are you?");*/
 
         fullname("Nuntawat","Subpiputtana");
-        plus(5,-10);
+        plus(5,10);
     }
    // การสร้างMethod
     static void display(String message) { // message คือ parameter
