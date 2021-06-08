@@ -15,5 +15,6 @@ public class ModLoop {
                 System.out.println("เลขคี่");
             }
         }
+        sc.close();
     }
 }
