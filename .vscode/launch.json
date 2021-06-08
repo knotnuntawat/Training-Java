@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayBasic",
+            "request": "launch",
+            "mainClass": "ArrayBasic",
+            "projectName": "JAVA TESTING_be113d2c"
+        },
+        {
+            "type": "java",
             "name": "Launch NestedLoop",
             "request": "launch",
             "mainClass": "NestedLoop",
