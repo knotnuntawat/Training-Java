@@ -21,12 +21,18 @@ public class Assignment2 {
         // วิธีที่1
         /*
          * if (bmi<18){ System.out.println("Your BMI is : "+bmi+" less than stat");
-         * }else if (bmi>=18.5 && bmi<=22.9){ System.out.println("Your BMI is : "+bmi+
-         * " perfect bmi"); }else if (bmi>=23.0 && bmi<=24.9){
-         * System.out.println("Your BMI is : "+bmi+ " a little bit Fat"); }else if
-         * (bmi>=25 && bmi<=29.9){ System.out.println("Your BMI is : "+bmi+" Fat");
-         * }else if (bmi>30){ System.out.println("Your BMI is : "+bmi+" Dangerous Fat");
-         * }else{ System.out.println("Your BMI is : "+bmi+" No data"); }
+         * }else if (bmi>=18.5 && bmi<=22.9){ 
+         * System.out.println("Your BMI is : "+bmi+
+         * " perfect bmi"); 
+         * }else if (bmi>=23.0 && bmi<=24.9){
+         * System.out.println("Your BMI is : "+bmi+ " a little bit Fat"); 
+         * }else if
+         * (bmi>=25 && bmi<=29.9){ 
+         * System.out.println("Your BMI is : "+bmi+" Fat");
+         * }else if (bmi>30){ 
+         * System.out.println("Your BMI is : "+bmi+" Dangerous Fat");
+         * }else{ 
+         * System.out.println("Your BMI is : "+bmi+" No data"); }
          */
 
         // วิธีที่ 2
