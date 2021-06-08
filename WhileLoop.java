@@ -6,8 +6,8 @@ public class WhileLoop {
 
         // while(เงื่อนไข){
         // ทำอะไร
-        // while (count <= 20) {
-        while (true) { //เงื่อนไขจริง infinity ปริ้น
+         while (count <= 20) {
+        //while (true) { //เงื่อนไขจริง infinity ปริ้น
             System.out.println("รอบที่ " + count + " Hello World");
             count++;
             if (count >100) {
